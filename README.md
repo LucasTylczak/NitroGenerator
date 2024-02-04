@@ -16,6 +16,7 @@ Ce script Python permet de solliciter l'API Discord afin de générer des jetons
 
 ### Kali Linux
 ```bash
+pip install requests
 git clone https://github.com/LucasTylczak/NitroGenerator/
 cd NitroGenerator
 python3 generateur_nitro.py
