@@ -16,10 +16,19 @@ Ce script Python permet de solliciter l'API Discord afin de générer des jetons
 
 1. Exécutez le script dans un environnement Python.
 
+#### Kali Linux
 ```bash
-python generateur_nitro.py
+git clone https://github.com/LucasTylczak/NitroGenerator/
+cd NitroGenerator
+python3 generateur_nitro.py
 ```
+#### Windows Powershell
+```bash
+git clone https://github.com/LucasTylczak/NitroGenerator/
+cd .\NitroGenerator\
+python .\generateur_nitro.py
 
+```
 2. Entrez l'ID de l'utilisateur partenaire lorsqu'on vous le demande.
 
 3. Le script fera une requête à l'API Discord et récupérera un jeton Nitro.
