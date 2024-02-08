@@ -29,13 +29,16 @@ cd .\NitroGenerator\
 python .\generateur_nitro.py
 
 ```
-2. Entrez l'ID de l'utilisateur partenaire lorsqu'on vous le demande.
+2. Entrez l'ID de le partnerUserId lorsqu'on vous le demande.
 
-3. Le script fera une requête à l'API Discord et récupérera un jeton Nitro.
+### Trouver le partnerUserId
+[Aide pour le partnerUserId](https://drive.google.com/file/d/1BGZqmuAbGrN6c43arhMngLd9mhrL4tgo/view?usp=sharing)
 
-4. Le jeton généré sera affiché avec une URL contenant le jeton.
+4. Le script fera une requête à l'API Discord et récupérera un jeton Nitro.
 
-5. Vous pouvez ouvrir l'URL dans un navigateur ou l'utiliser selon vos besoins.
+5. Le jeton généré sera affiché avec une URL contenant le jeton.
+
+6. Vous pouvez ouvrir l'URL dans un navigateur ou l'utiliser selon vos besoins.
 
 ## Avertissement
 
