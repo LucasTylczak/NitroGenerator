@@ -9,6 +9,9 @@ Ce script Python permet de solliciter l'API Discord afin de générer des jetons
 ## Requirement 
 
 Le navigateur Opera gx est requis pour ce git.
+
+Compte PayPal avec carte bleue associé.
+
 ## Fonctionnalités
 
 - Interaction avec l'API Discord pour générer des jetons Nitro.
@@ -41,7 +44,7 @@ python .\generateur_nitro.py
 
 5. Le jeton généré sera affiché avec une URL contenant le jeton.
 
-6. Vous pouvez ouvrir l'URL dans un navigateur ou l'utiliser selon vos besoins.
+6. N'oubliez pas de dissocier par la suite votre compte PayPal à votre compte discorde.
 
 ## Avertissement
 
