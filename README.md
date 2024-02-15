@@ -6,6 +6,9 @@ Le NitroGenerator est un script simple en Python qui interagit avec l'API Discor
 
 Ce script Python permet de solliciter l'API Discord afin de générer des jetons Nitro pour les cadeaux. Il utilise la fonction de promotion des partenaires Discord pour obtenir ces jetons et les affiche pour utilisation ultérieure.
 
+## Requirement 
+
+Le navigateur Opera gx est requis pour ce git.
 ## Fonctionnalités
 
 - Interaction avec l'API Discord pour générer des jetons Nitro.
